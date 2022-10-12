@@ -208,8 +208,8 @@ async def call_apropriate_function(
 # ranaaishwarlal
 # RanaaIshwarlal&&&
 
-#lx0980web
-# &&&RanaaIshwarlal&&&
+# lx0980web
+# RanaaIshwarlal&&&
     else:
         await sent_message_to_update_tg_p.delete()
         to_upload_file, sent_message_to_update_tg_p = await download_tg(client=client, message=user_message)
