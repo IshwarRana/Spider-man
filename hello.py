@@ -209,11 +209,11 @@ async def call_apropriate_function(
 # RanaaIshwarlal&&&
 # github: ishwarrana
 
-# MyFuture0980@gmail.com
+# MyFuture0980
 # MyFuture0980@
 # github: Trullexboy
 
-#AiSchoolBoy56@gmail.com
+#AiSchoolBoy56
 #AiSchoolBoy56&&&
 
 # lx0980web
